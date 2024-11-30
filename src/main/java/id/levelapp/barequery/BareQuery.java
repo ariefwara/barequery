@@ -4,7 +4,7 @@ package id.levelapp.barequery;
  * Hello world!
  *
  */
-public class App 
+public class BareQuery 
 {
     public static void main( String[] args )
     {
