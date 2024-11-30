@@ -1,0 +1,25 @@
+# Ignore Maven target directory
+target/
+
+# Ignore compiled Java classes
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+
+# Ignore IDE specific files
+.idea/
+*.iml
+*.iws
+
+# Ignore Maven specific files
+dependency-reduced-pom.xml
+release.properties
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+# End Generation Here
